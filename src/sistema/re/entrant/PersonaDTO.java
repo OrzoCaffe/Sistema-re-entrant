@@ -1,4 +1,3 @@
-//prova
 package sistema.re.entrant;
 
 
