@@ -12,6 +12,6 @@ public class PersonaDTO {
     public void setNome(String nome) {
         this.nome = nome;
     }
-    
+    //e fallo sto commit
     
 }
